@@ -1,0 +1,36 @@
+{
+  "sections": [
+    {
+      "id": "1",
+      "denomination": "Primo Piatto"
+    },
+    {
+      "id": "2",
+      "denomination": "Secondo Piatto"
+    },
+    {
+      "id": "3",
+      "denomination": "Contorno"
+    },
+    {
+      "id": "4",
+      "denomination": "Pane"
+    },
+    {
+      "id": "5",
+      "denomination": "Frutta"
+    },
+    {
+      "id": "6",
+      "denomination": "Acqua"
+    },
+    {
+      "id": "7",
+      "denomination": "Posata"
+    },
+    {
+      "id": "8",
+      "denomination": "Tovaglietta"
+    }
+  ]
+}

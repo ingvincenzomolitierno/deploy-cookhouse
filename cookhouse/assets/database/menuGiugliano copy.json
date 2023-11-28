@@ -1,0 +1,508 @@
+{
+  "id_cliente": "0001",
+  "cliente": "Giugliano",
+  "menu_denominazione": "menu autunno/inverno",
+  "data_inizio": "01/10/2023",
+  "data_fine": "31/03/2024",
+  "menu_periodo": [
+    "autunno",
+    "inverno"
+  ],
+  "ordini_scuola_titolo": "infanzia/primaria",
+  "ordini_scuola_lista": [
+    "infanzia",
+    "primaria"
+  ],
+  "schedulazione": "settimanale",
+  "periodo": "4",
+  "plessi": [
+    {
+      "nome": "4° CIRCOLO CENTRALE",
+      "sede": "via Quintiliano, 1, 80014 Giugliano in Campania (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 1500
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 17
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            },
+            {
+              "tipo": "speciale",
+              "denominazione": "Allergia arachidi, anacardi, pistacchi",
+              "consumatori": [
+                {
+                  "denominazione": "APROVITOLA GIUSEPPE",
+                  "valore_default": 1
+                }
+              ],
+              "pasti": [ ]
+            },
+            {
+              "tipo": "speciale",
+              "denominazione": "MENU ETICO RELIGIOSO NO MAIALE",
+              "consumatori": [
+                {
+                  "denominazione": "AYAZ VIGATO, CHANED SAKHRI ",
+                  "valore_default": 2
+                }
+              ],
+              "pasti": [ ]
+            },
+            {
+              "tipo": "speciale",
+              "denominazione": "INTOLL VERZA CAVOLFIROE ZUCCA INSAPORTITORI POMODORO CRUDO",
+              "consumatori": [
+                {
+                  "denominazione": "CAMBRIA CLAUDIO",
+                  "valore_default": 1
+                }
+              ],
+              "pasti": [ ]
+            },
+            {
+              "tipo": "speciale",
+              "denominazione": "CELIACHIA",
+              "consumatori": [
+                {
+                  "denominazione": "D'ANIELLO GIULIA",
+                  "valore_default": 1
+                }
+              ],
+              "pasti": [ ]
+            },
+            {
+              "tipo": "speciale",
+              "denominazione": "DIABETICO",
+              "consumatori": [
+                {
+                  "denominazione": "nome 1, nome 2, nome 3",
+                  "valore_default": 3
+                }
+              ],
+              "pasti": [ ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "4° CIRCOLO SUCCURSALE",
+      "sede": "via ......, ##, ##### Giugliano in Campania (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 268
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 31
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+
+          ]
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "2° CIRCOLO SUCCURSALE ",
+      "sede": "via ......, ##, ##### Giugliano in Campania (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 63
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 6
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "8° CIRCOLO ",
+      "sede": "via ......, ##, ##### Giugliano in Campania (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 208
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 15
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5,
+          "menus": [
+          ]
+        }
+      ]
+    }
+  ]
+}

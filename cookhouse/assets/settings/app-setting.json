@@ -1,0 +1,5 @@
+{
+    "home_redirect": "homepage",
+    "refresh_period": 86400000,
+    "version": "1.0.0"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "pz",
+    "label": "pezzi"
+  },
+  {
+    "value": "lt",
+    "label": "litri"
+  },
+  {
+    "value": "gr",
+    "label": "grammi"
+  },
+  {
+    "value": "pz",
+    "label": "pezzi"
+  },
+  {
+    "value": "ml",
+    "label": "millilitri"
+  },
+  {
+    "value": "kg",
+    "label": "kilogrammi"
+  }
+]

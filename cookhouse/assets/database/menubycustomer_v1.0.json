@@ -1,0 +1,342 @@
+{
+  "id_cliente": "0001",
+  "cliente": "Comune di Giugliano",
+  "menu_denominazione": "menu autunno/inverno",
+  "data_inizio": "01/10/2023",
+  "data_fine": "31/03/2024",
+  "menu_periodo": [
+    "autunno",
+    "inverno"
+  ],
+  "ordini_scuola_titolo": "infanzia/primaria",
+  "ordini_scuola_lista": [
+    "infanzia",
+    "primaria"
+  ],
+  "schedulazione": "settimanale",
+  "periodo": "4",
+  "plessi": [
+    {
+      "nome": "2° circolo ",
+      "sede": "via Quintiliano, 1, 80014 Giugliano in Campania (NA)",
+      "valori_default": {
+        "alunni": 111,
+        "insegnanti": 17,
+        "primo_piatto": 0,
+        "secondo_piatto": 0
+      }
+    },
+    {
+      "nome": "4° circolo centrale",
+      "sede": "via Ripuaria Loc. Varcaturo, 10, 80014 Giugliano in Campania (NA)",
+      "valori_default": {
+        "alunni": 268,
+        "insegnanti": 31,
+        "primo_piatto": 0,
+        "secondo_piatto": 0
+      }
+    },
+    {
+      "nome": "4° circolo succursale",
+      "sede": ".., 80014 Giugliano in Campania (NA)",
+      "valori_default": {
+        "alunni": 63,
+        "insegnanti": 6,
+        "primo_piatto": 0,
+        "secondo_piatto": 0
+      }
+    },
+    {
+      "nome": "8° circolo ",
+      "sede": "via Lgo Patria, 84, 80014 Giugliano in Campania (NA)",
+      "valori_default": {
+        "alunni": 208,
+        "insegnanti": 15,
+        "primo_piatto": 0,
+        "secondo_piatto": 0
+      }
+    }
+  ],
+  "fornitura": [
+    {
+      "progressivo": 1,
+      "titolo": "I settimana",
+      "durata_giorni": 5,
+      "menus": [
+        {
+          "tipo": "ordinario",
+          "consumatori": [
+            "Alunni",
+            "Insegnanti"
+          ],
+          "denominazione": "menu ordinario",
+          "valore_default": 60,
+          "pasti": [
+            {
+              "giorno": "lunedì",
+              "primo_piatto": "Pasta integrale al sugo",
+              "codice_primo_piatto": "",
+              "secondo_piatto": "Prosciutto cotto di I^ Q.",
+              "codice_secondo_piatto": "",
+              "contorno": "Insalata verde",
+              "codice_contorno": "",
+              "pane": "Panino 50gr",
+              "frutta": "frutta di stagione",
+              "acqua": "Piccola 250ml",
+              "posata": "Si",
+              "tovaglietta": "No"
+            },
+            {
+              "giorno": "martedì",
+              "primo_piatto": "Pasta e zucca",
+              "secondo_piatto": "Arista di maiale al forno",
+              "contorno": "Patate al forno",
+              "pane": "Panino 50gr",
+              "frutta": "frutta di stagione",
+              "acqua": "Piccola 250ml",
+              "posata": "Si",
+              "tovaglietta": "No"
+            },
+            {
+              "giorno": "mercoledì",
+              "primo_piatto": "Riso al pomodoro",
+              "secondo_piatto": "Formaggio spalmabile",
+              "contorno": "Biete in umido",
+              "pane": "Panino 50gr",
+              "frutta": "frutta di stagione",
+              "acqua": "Piccola 250ml",
+              "posata": "Si",
+              "tovaglietta": "No"
+            },
+            {
+              "giorno": "giovedì",
+              "primo_piatto": "Pasta e fagioli",
+              "secondo_piatto": "Carote e mais",
+              "contorno": "",
+              "pane": "Panino 50gr",
+              "frutta": "frutta di stagione",
+              "acqua": "Piccola 250ml",
+              "posata": "Si",
+              "tovaglietta": "No"
+            },
+            {
+              "giorno": "venerdì",
+              "primo_piatto": "Pasta e patate",
+              "secondo_piatto": "Bastoncini di merluzzo",
+              "contorno": "Spinaci all’olio",
+              "pane": "Panino 50gr",
+              "frutta": "frutta di stagione",
+              "acqua": "Piccola 250ml",
+              "posata": "Si",
+              "tovaglietta": "No"
+            }
+          ]
+        },
+        {
+          "tipo": "speciale",
+          "consumatori": [
+            "Aprovitola Giuseppe"
+          ],
+          "denominazione": "Allergia arachidi, anacardi, pistacchi",
+          "valore_default": 1,
+          "menu": []
+        },
+        {
+          "tipo": "speciale",
+          "consumatori": [
+            "Cambria Claudio"
+          ],
+          "denominazione": "Allergia verza, cavolfiore, zucca, nocciola, insaporitori per carni, pomodoro crudo",
+          "valore_default": 1,
+          "menu": []
+        }
+      ]
+    },
+    {
+      "progressivo": 2,
+      "titolo": "II settimana",
+      "durata_giorni": 5,
+      "fornitura": [
+        {
+          "giorno": "lunedì",
+          "primo_piatto": "Riso con minestrone di verdure",
+          "secondo_piatto": "Frittata di ricotta e spinaci al forno/frutta di stagione",
+          "contorno": "",
+          "pane": "Panino 50gr",
+          "frutta": "",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "martedì",
+          "primo_piatto": "Pasta integrale al pomodoro",
+          "secondo_piatto": "Merluzzo panato",
+          "contorno": "Biete in umido",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "mercoledì",
+          "primo_piatto": "Pasta e lenticchie",
+          "secondo_piatto": "Insalata mista e mais",
+          "contorno": "frutta di stagione",
+          "pane": "Panino 50gr",
+          "frutta": "",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "giovedì",
+          "primo_piatto": "Pasta e zucca",
+          "secondo_piatto": "Formaggio spalmabile",
+          "contorno": "Fagiolini all’agro",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "venerdì",
+          "primo_piatto": "Pizza al pomodoro",
+          "secondo_piatto": "Arrosto di tacchino",
+          "contorno": "Mais",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        }
+      ]
+    },
+    {
+      "progressivo": 3,
+      "titolo": "III settimana",
+      "durata_giorni": 5,
+      "fornitura": [
+        {
+          "giorno": "lunedì",
+          "primo_piatto": "Riso e zucca",
+          "secondo_piatto": "Formaggio spalmabile",
+          "contorno": "Biete in umido",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "martedì",
+          "primo_piatto": "Pasta integrale al pomodoro",
+          "secondo_piatto": "Polpette al sugo",
+          "contorno": "Carote in umido",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "mercoledì",
+          "primo_piatto": "Pasta e zucchine",
+          "secondo_piatto": "Bastoncini di merluzzo",
+          "contorno": "Purea di patate",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "giovedì",
+          "primo_piatto": "Pasta e fagioli",
+          "secondo_piatto": "Carote e mais",
+          "contorno": "",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "venerdì",
+          "primo_piatto": "Risotto al pomodoro",
+          "secondo_piatto": "Tocchetti di pollo panati",
+          "contorno": "Spinaci in umido",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        }
+      ]
+    },
+    {
+      "progressivo": 4,
+      "titolo": "IV settimana",
+      "durata_giorni": 5,
+      "fornitura": [
+        {
+          "giorno": "lunedì",
+          "primo_piatto": "Pasta alla bolognese",
+          "secondo_piatto": "Spinaci al parmigiano",
+          "contorno": "",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "martedì",
+          "primo_piatto": "Vellutata di ceci con pasta",
+          "secondo_piatto": "Arista di maiale al forno",
+          "contorno": "Patate al forno",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "mercoledì",
+          "primo_piatto": "Pasta integrale al sugo",
+          "secondo_piatto": "Polpette al sugo",
+          "contorno": "Insalata verde e mais",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "giovedì",
+          "primo_piatto": "Pasta e lenticchie",
+          "secondo_piatto": "Prosciutto cotto di I^Q.",
+          "contorno": "Spinaci all’insalata",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        },
+        {
+          "giorno": "venerdì",
+          "primo_piatto": "Riso e patate",
+          "secondo_piatto": "Merluzzo panato",
+          "contorno": "Carote in umido",
+          "pane": "Panino 50gr",
+          "frutta": "frutta di stagione",
+          "acqua": "Piccola 250ml",
+          "posata": "Si",
+          "tovaglietta": "No"
+        }
+      ]
+    }
+  ]
+}

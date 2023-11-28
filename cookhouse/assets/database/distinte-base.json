@@ -1,0 +1,38 @@
+{
+  "id": "0001",
+  "tipo_piatto": "primo",
+  "denominazione": " Pasta con minestrone di verdure",
+  "materie_prime": [
+    {
+      "codice": "",
+      "denominazione": "Pasta di semola",
+      "udm": "gr",
+      "quantita": "40"
+    },
+    {
+      "codice": "",
+      "denominazione": "Minestrone di verdure",
+      "udm": "gr",
+      "quantita": "100"
+    },
+    {
+      "codice": "",
+      "denominazione": "Olio extravergine d'oliva",
+      "udm": "gr",
+      "quantita": "5"
+    },
+    {
+      "codice": "",
+      "denominazione": "Parmigiano",
+      "udm": "gr",
+      "quantita": "5"
+    },
+    {
+      "codice": "",
+      "denominazione": "Aromi",
+      "udm": "qb",
+      "quantita": "qb"
+    }
+  ]
+
+}

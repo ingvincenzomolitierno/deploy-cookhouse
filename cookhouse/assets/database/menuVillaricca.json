@@ -1,0 +1,235 @@
+{
+  "id_cliente": "0001",
+  "cliente": "Comune di Villaricca",
+  "menu_denominazione": "menu autunno/inverno",
+  "data_inizio": "01/10/2023",
+  "data_fine": "31/03/2024",
+  "menu_periodo": [
+    "autunno",
+    "inverno"
+  ],
+  "ordini_scuola_titolo": "infanzia/primaria",
+  "ordini_scuola_lista": [
+    "infanzia",
+    "primaria"
+  ],
+  "schedulazione": "settimanale",
+  "periodo": "4",
+  "plessi": [
+    {
+      "nome": "2° circolo Rodari",
+      "sede": "via ..., #, ##### Villaricca (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 180
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 16
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+
+          ]
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5
+
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5
+
+        }
+      ]
+    },
+    {
+      "nome": "I.C. DON MAURO",
+      "sede": "via ..., #, ##### Villaricca (NA)",
+      "fornitura": [
+        {
+          "progressivo": 1,
+          "titolo": "I settimana",
+          "durata_giorni": 5,
+          "menus": [
+            {
+              "tipo": "ordinario",
+              "denominazione": "menu ordinario",
+              "consumatori": [
+                {
+                  "denominazione": "Alunni",
+                  "valore_default": 45
+                },
+                {
+                  "denominazione": "Insegnanti",
+                  "valore_default": 5
+                }
+              ],
+              "pasti": [
+                {
+                  "giorno": "lunedì",
+                  "primo_piatto": "Pasta integrale al sugo",
+                  "codice_primo_piatto": "",
+                  "secondo_piatto": "Prosciutto cotto di I^ Q.",
+                  "codice_secondo_piatto": "",
+                  "contorno": "Insalata verde",
+                  "codice_contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "martedì",
+                  "primo_piatto": "Pasta e zucca",
+                  "secondo_piatto": "Arista di maiale al forno",
+                  "contorno": "Patate al forno",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "mercoledì",
+                  "primo_piatto": "Riso al pomodoro",
+                  "secondo_piatto": "Formaggio spalmabile",
+                  "contorno": "Biete in umido",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "giovedì",
+                  "primo_piatto": "Pasta e fagioli",
+                  "secondo_piatto": "Carote e mais",
+                  "contorno": "",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                },
+                {
+                  "giorno": "venerdì",
+                  "primo_piatto": "Pasta e patate",
+                  "secondo_piatto": "Bastoncini di merluzzo",
+                  "contorno": "Spinaci all’olio",
+                  "pane": "Panino 50gr",
+                  "frutta": "frutta di stagione",
+                  "acqua": "Piccola 250ml",
+                  "posata": "Si",
+                  "tovaglietta": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "progressivo": 2,
+          "titolo": "II settimana",
+          "durata_giorni": 5,
+          "menus": [
+
+          ]
+
+        },
+        {
+          "progressivo": 3,
+          "titolo": "III settimana",
+          "durata_giorni": 5
+
+        },
+        {
+          "progressivo": 4,
+          "titolo": "IV settimana",
+          "durata_giorni": 5
+
+        }
+      ]
+    }
+  ]
+}
